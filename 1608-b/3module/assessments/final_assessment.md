@@ -13,7 +13,7 @@ repo:
 repo:
 
 ### Ben Pepper
-repo:
+repo: https://github.com/bfpepper/module_3_assessment
 
 ### Chase Dunagan
 repo:
